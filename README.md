@@ -6,7 +6,7 @@ I like math, chemistry and biology, and I use data science to understand puzzles
 
 | Project | What I did | Result |
 |---|---|---|
-| [Catching Credit Card Fraud with Small Trees](https://github.com/carrotjoe29/catching-credit-card-fraud) | Predicted fraud in 700,000 transactions with only my own models: safe target encoding, tiny trees, a joint GLM, CatBoost and a hill-climbing blend. [Public notebook](https://www.kaggle.com/jkaren/code) | ROC AUC 0.95161 |
+| [Catching Credit Card Fraud with Small Trees](https://github.com/carrotjoe29/catching-credit-card-fraud) | Predicted fraud in 700,000 transactions with only my own models: safe target encoding, tiny trees, a joint GLM, CatBoost and a hill-climbing blend. [Public notebook](https://www.kaggle.com/code/jkaren/catching-creditcard-fraud-with-small-trees-kj) | ROC AUC 0.95161 |
 | Squares in Squares | Packing 1 to 1,000 unit squares into the smallest possible square. I built pattern families, searched their settings and polished them with exact gradients, without copying anyone's packings. [Public notebook](https://www.kaggle.com/code/jkaren/squares-in-squares-a-student-s-journey-from-28-94) | Score from 28.81 down to 22.93 (lower is better) |
 
 ## Working on now
